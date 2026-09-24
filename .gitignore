@@ -1,0 +1,33 @@
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Next.js
+.next/
+out/
+build/
+
+# Dependencies
+node_modules/
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
+
+# Vercel
+.vercel
+
+# Supabase local dev
+supabase/.branches
+supabase/.temp
+
+# OS
+.DS_Store
+
+# Logs
+*.log
+npm-debug.log*
+
+# Test coverage
+coverage/
