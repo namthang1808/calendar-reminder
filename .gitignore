@@ -8,6 +8,9 @@
 out/
 build/
 
+.agentkit
+.claude
+
 # Dependencies
 node_modules/
 
